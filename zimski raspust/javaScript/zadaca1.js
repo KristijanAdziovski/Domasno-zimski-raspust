@@ -1,0 +1,12 @@
+let a=2;
+console.log(a);
+console.log(typeof(a));
+a="2";
+console.log(a);
+console.log(typeof(a));
+a=true;
+console.log(a);
+console.log(typeof(a));
+a=[2,3,4];
+console.log(a);
+console.log(typeof(a));
